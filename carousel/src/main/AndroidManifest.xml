@@ -1,6 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.carousel.auna">
     <application
-        android:name=".CustomApplication"/>
-
+        android:name="androidx.multidex.MultiDexApplication" />
 </manifest>
