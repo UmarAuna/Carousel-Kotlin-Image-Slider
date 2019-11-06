@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dedede"
+    android:padding="5dp"
+    android:orientation="vertical"
+    tools:context="MainActivity">
+
+    <com.carousel.auna.ImageSlider
+        android:id="@+id/image_slider"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        app:auto_cycle="true"
+        android:gravity="center"
+        app:corner_radius="20"
+        app:placeholder="@drawable/placeholder"
+        app:error_image="@drawable/error"
+        app:selected_dot="@drawable/default_selected_dot"
+        app:unselected_dot="@drawable/default_unselected_dot"
+        app:period="3000"
+        app:delay="5"/>
+</LinearLayout>
