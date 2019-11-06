@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         image_slider.setImageList(imageList, true) //centerCrop for all images
 
-        image_slider.startSliding(5000) // with new period
+        image_slider.startSliding(3000) // with new period
 
 
         //clicklistener
