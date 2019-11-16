@@ -1,11 +1,10 @@
 # Carousel-Kotlin Image Slider
 [![](https://jitpack.io/v/UmarAuna/Carousels-Kotlin.svg)](https://jitpack.io/#UmarAuna/Carousels-Kotlin)
 
-<a href="https://github.com/Ramotion/cardslider-android">
-<img src="https://agitated-allen-ab5fcb.netlify.com/images/carousel-large.gif"/></a>
-<img src="https://www.example.com/images/dinosaur.jpg">
-This is an android image slider library. Just add the images you want to view. You can use automatic scrolling for the time you set. You can also add the title you want to the images. You can set corner radius images.
 
+
+This is an android image slider library. Just add the images you want to view. You can use automatic scrolling for the time you set. You can also add the title you want to the images. You can set corner radius images.
+<img src="https://agitated-allen-ab5fcb.netlify.com/images/carousel-large.gif"/>
 ## Usage
 - Add ImageSlider to your **layout**
 ```xml
