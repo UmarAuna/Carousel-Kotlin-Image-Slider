@@ -3,9 +3,7 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://agitated-allen-ab5fcb.netlify.com/images/carousel_small.gif" width="300px"/>
-</div>
+<center><img src="https://agitated-allen-ab5fcb.netlify.com/images/carousel_small.gif" width="300px"/></center>
 
 This is an android image slider library. Just add the images you want to view. You can use automatic scrolling for the time you set. You can also add the title you want to the images. You can set corner radius images.
 
