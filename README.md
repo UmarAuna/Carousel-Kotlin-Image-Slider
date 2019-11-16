@@ -1,6 +1,6 @@
 # Carousel-Kotlin Image Slider
 [![](https://jitpack.io/v/UmarAuna/Carousels-Kotlin.svg)](https://jitpack.io/#UmarAuna/Carousels-Kotlin)
-![Hex.pm](https://img.shields.io/hexpm/l/https://opensource.org/licenses/Apache-2.0?color=green)
+[![license](https://img.shields.io/badge/license-Apache--2.0-brightgreen?style=popout)](https://opensource.org/licenses/Apache-2.0)
 
 
 <center><img src="https://agitated-allen-ab5fcb.netlify.com/images/carousel_small.gif" width="300px"/></center>
