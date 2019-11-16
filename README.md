@@ -1,4 +1,4 @@
-# Carousels-Kotlin Image Slider
+# Carousel-Kotlin Image Slider
 [![](https://jitpack.io/v/UmarAuna/Carousels-Kotlin.svg)](https://jitpack.io/#UmarAuna/Carousels-Kotlin)
 
 This is an android image slider library. Just add the images you want to view. You can use automatic scrolling for the time you set. You can also add the title you want to the images. You can set corner radius images.
