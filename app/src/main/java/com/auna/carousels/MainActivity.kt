@@ -17,9 +17,9 @@ class MainActivity : AppCompatActivity() {
         // imageList.add(SlideModel("String Url" or R.drawable)
         // imageList.add(SlideModel("String Url" or R.drawable, "title") You can add title
         // imageList.add(SlideModel("String Url" or R.drawable, "title", true) Also you can add centerCrop scaleType for this image
-        imageList.add(SlideModel("https://static.food2fork.com/Jalapeno2BPopper2BGrilled2BCheese2BSandwich2B12B500fd186186.jpg","Buy One get two for free",true))
-        imageList.add(SlideModel("https://static.food2fork.com/ParmesanRoastedPotatoes11985a.jpg","Eat at 5% price reduction on Fridays",true))
-        imageList.add(SlideModel("https://static.food2fork.com/GuacamoleGrilledCheese6019.jpg","Come and enjoy with your family",true))
+        imageList.add(SlideModel("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/foods-that-lower-cholesterol-1296x728-feature.jpg?w=1155&h=1528","Buy One get two for free",true))
+        imageList.add(SlideModel("https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/201309-xl-filipino-grilled-chicken.jpg?itok=KvdiUetU","Eat at 5% price reduction on Fridays",true))
+        imageList.add(SlideModel("https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2019/06/27132437/BBQ-Chicken-Adobo_wide.jpg","Come and enjoy with your family",true))
 
         image_slider.setImageList(imageList, true) //centerCrop for all images
 
